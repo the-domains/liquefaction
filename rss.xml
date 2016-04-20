@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title><![CDATA[liquefaction]]></title>
+        <description><![CDATA[liquefaction]]></description>
+        <link>http://github.com/dylang/node-rss</link>
+        <generator>The Grid</generator>
+        <lastBuildDate>Wed, 20 Apr 2016 09:12:11 GMT</lastBuildDate>
+        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<p>Liquefaction is the result of silt and sand being forced from beneath the ground surface as a result of an earthquake shaking the silt and sand in the lower layers of the sediments. As a result of the shaking, water currents are also pressurized and the release of that pressure can only go to the surface where there is the least resistance. With the water taking the silt and sand with it to the surface you can sometimes get some impressive results in the terms of the volume of silt and sand when it is in full suspension as it breaches the ground surface.</p>]]></description>
+            <link>undefinedliquefaction-is-the-result-of-silt-and-sand-being-forced-fro/index.html</link>
+            <guid isPermaLink="false">30f3f8b0-0884-475c-be95-8f7d4ee218c9</guid>
+            <pubDate>Wed, 20 Apr 2016 09:12:10 GMT</pubDate>
+        </item>
+    </channel>
+</rss>
