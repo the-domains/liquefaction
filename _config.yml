@@ -1,20 +1,4 @@
-name: liquefaction
-favicon: null
-layout_spectrum: 0.817434
-typography_spectrum: 0.617599
-title: Liquefaction Removal
-cta:
-  domain: null
-  bucket: null
-  version: null
-analytics:
-  google: null
-  facebook: null
-  twitter: null
-opengraph:
-  image: null
-  type: null
-  appId: null
+analytics: {}
 color:
   brandColors:
     - '#A8C890'
@@ -24,9 +8,12 @@ color:
     - '#70D8A0'
   brandStrength: 0.5415067551295067
   lightness: 0.0981557714197896
-  saturation: 0.23510183637097204
   rhythmicContrast: 0.00276233386460778
+  saturation: 0.23510183637097204
+cta: {}
+layout_spectrum: 0.876712
+name: liquefaction
+opengraph: {}
 purpose:
-  - name: null
-    item: null
-    url: null
+  - {}
+typography_spectrum: 0.617599
